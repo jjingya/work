@@ -1,0 +1,183 @@
+
+.page{
+   
+	position:absolute;
+    padding-top: 5px;
+    left:52%;
+    margin:10px 0 0 -470px;
+    height: 100vh;
+    width: 830px;
+}
+
+.leftside{
+    /* border: 1px solid red; */
+    float: left;
+    width: 55%;
+
+}
+
+.rightside{
+   
+    float: left;
+    width: 45%;
+
+}
+
+.kuai{
+    margin-top: 10px;
+    float: left;
+    margin-bottom: 60px;
+    
+}
+
+.left-top{
+    /* border: 1px solid palegreen; */
+    float: left;
+    position: relative;
+    z-index: 0;
+   
+   
+}
+
+.profile{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+
+}
+
+.lefttop-red-font{
+float: left;
+font-size: 20px;
+font-weight: bolder;
+font-family:"黑体"
+}
+
+.lefttop-red-font1{
+    margin-top: 20px;
+}
+
+.left-white-font1{
+margin-top: 10px;
+margin-left: 15px;
+font-size: 20px;
+font-weight: bolder;
+color: white;
+
+}
+
+.left-white-font2{
+font-size: 14px;
+font-weight: bolder;
+color: white;
+float: right;
+margin-right: 10px;
+
+}
+
+.left-bottom1{
+font-size: 18px;
+font-weight: bolder;
+color: white;
+
+}
+
+.left-bottom2
+{
+    margin-top: 5px;   
+}
+
+.left-center{
+    margin-top: 130px;
+    margin-left: 50px;
+  
+    background: rgb(255,99,100);
+    width: 200px;
+    height: 180px;
+    position:absolute ;
+    z-index: 1;
+    text-align: top;
+    float: top;
+
+
+}
+
+.left-bottom{
+    margin-top: 60px;
+    background: rgb(64,75,105);
+    width: 380px;
+    height: 809px; 
+   text-align: bottom;
+   float: bottom;
+   position: relative;
+   float: left;
+   z-index: 0;
+    
+
+}
+
+.left-botto{
+    margin-top: 140px;
+    margin-left: 35px;
+}
+
+.about
+{
+    font-style:"rgb(55,75,105)"
+}
+
+.righttop{
+    margin-top: 15px;
+    margin-bottom: 80px;
+}
+.right-top1{
+    margin-top: 50px;
+}
+
+.skill{
+    margin-top: 30px;
+
+}
+
+.space{
+   letter-spacing: 8px;
+}
+
+label{
+    color:rgb(64,75,105);
+   margin-left: 27px;
+    
+    
+}
+
+span{
+    font-size: 16px;
+}
+
+.icon{
+  margin-left: 20px;
+}
+
+
+
+.comment{
+    margin-top: 100px;
+    float: left;
+    font-size: 20px;
+    font-weight: bolder;
+   width: 830px;
+
+}
+.Button{
+   margin-left: 740px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+.list{
+    float: left;
+    margin-top: 10px;
+
+}
+
+
